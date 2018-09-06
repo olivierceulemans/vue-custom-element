@@ -3,5 +3,6 @@ export default {
   binding: 'Binding',
   events: 'Events',
   slots: 'Slots',
+  extend: 'Extend',
   'lazy-loading': 'Lazy loading'
 };
